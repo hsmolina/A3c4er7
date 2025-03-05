@@ -1,7 +1,7 @@
 
 package a3c4er7;
 
-public class A3c4er7 {
+public class Main {
 
     public static void main(String[] args) {
         
